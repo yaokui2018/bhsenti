@@ -1,1 +1,1 @@
-include src/bhsenti/onnx/*
+include src/bhsenti/onnx/vocab.txt

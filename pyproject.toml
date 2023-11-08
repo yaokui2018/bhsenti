@@ -1,10 +1,10 @@
 [project]
 name = "bhsenti"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
     { name = "bhnw", email = "bhshare.cn@gmail.com" },
 ]
-dependencies = ['transformers', 'onnxruntime']
+dependencies = ['transformers', 'onnxruntime', 'requests', 'tqdm']
 description = "基于三分类的中文情感分析"
 readme = "README.md"
 requires-python = ">=3"
